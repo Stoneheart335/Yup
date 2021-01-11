@@ -5,5 +5,5 @@ def poem(x,u):
     return z
 y=poem(5,4)
 print(y)
-//print 
+//print yoo
 print(poem(3,2))
