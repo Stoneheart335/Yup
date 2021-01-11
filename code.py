@@ -1,6 +1,4 @@
-def poem:
-    x=1
-    u=2
+def poem(x,u):
     return x+u
-y=poem()
+y=poem(5,4)
 print(y)
